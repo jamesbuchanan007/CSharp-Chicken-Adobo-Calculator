@@ -70,7 +70,7 @@
             this.btnCalculate.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnCalculate.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCalculate.ForeColor = System.Drawing.Color.Transparent;
-            this.btnCalculate.Location = new System.Drawing.Point(224, 74);
+            this.btnCalculate.Location = new System.Drawing.Point(222, 74);
             this.btnCalculate.Name = "btnCalculate";
             this.btnCalculate.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.btnCalculate.Size = new System.Drawing.Size(39, 38);
@@ -147,7 +147,7 @@
             // btnClear
             // 
             this.btnClear.BackColor = System.Drawing.Color.Aqua;
-            this.btnClear.Location = new System.Drawing.Point(206, 124);
+            this.btnClear.Location = new System.Drawing.Point(204, 124);
             this.btnClear.Name = "btnClear";
             this.btnClear.Size = new System.Drawing.Size(75, 23);
             this.btnClear.TabIndex = 12;
@@ -182,9 +182,9 @@
             this.pictureBox1.BackgroundImage = global::WindowsFormsApplication1.Properties.Resources._10;
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.pictureBox1.InitialImage = null;
-            this.pictureBox1.Location = new System.Drawing.Point(20, 15);
+            this.pictureBox1.Location = new System.Drawing.Point(10, 14);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(128, 94);
+            this.pictureBox1.Size = new System.Drawing.Size(147, 106);
             this.pictureBox1.TabIndex = 15;
             this.pictureBox1.TabStop = false;
             // 
