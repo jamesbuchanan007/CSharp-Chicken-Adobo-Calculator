@@ -90,6 +90,7 @@ namespace WindowsFormsApplication1
         //Prompts Rice Form prior to exiting
         private void btnExit_Click(object sender, EventArgs e)
         {
+            this.Hide();
             new frmRiceCheck().Show();
         }     
 
